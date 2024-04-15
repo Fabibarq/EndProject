@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3051d6d1-6618-480c-b3eb-5900b9dc8afd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Proyecto trabajo 7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "version0.1",
     "last_opened_file_path": "C:/Users/n4sir/Desktop/Proyecto trabajo 7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -83,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713155497187</updated>
       <workItem from="1713155505527" duration="6771000" />
-      <workItem from="1713162977814" duration="2863000" />
+      <workItem from="1713162977814" duration="3165000" />
     </task>
     <servers />
   </component>
